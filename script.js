@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let index = 0;
     let currentText = "";
     let letter = "";
+    ow.location.href = "/https-github.co/dashboard.html";
 
     (function type() {
         if (count === texts.length) {
@@ -56,3 +57,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
